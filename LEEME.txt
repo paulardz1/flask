@@ -1,0 +1,7 @@
+Este proyecto está creado con la librería Flask para crear la API, python y Mysql - PhpMyadmin como 
+gestores de bases de datos, es una aplicación destinada a observar el rendimiento de los operarios 
+de una fábrica de empaques, en el cual se pide el número de pedido, nombre del operario, referencia, 
+cantidad de empaques producidos y fecha de inicio y fecha de finalización. La idea es que el operario 
+al iniciar el pedido registre la información hasta fechas de inicio y finalmente, cuando termine de 
+realizar la totalidad del pedido, actualice la información de la tabla. 
+Esta aplicación tiene todas las funciones del CRUD.
